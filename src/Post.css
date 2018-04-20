@@ -1,0 +1,19 @@
+.post {
+  text-align: left;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 50px;
+}
+
+.posts {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: inherit;
+  padding: 30px;
+  box-sizing: border-box;
+}
